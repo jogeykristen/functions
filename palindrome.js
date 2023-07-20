@@ -13,5 +13,5 @@ const palind = str =>{
     }
     return reversed
 }
-let str = 'ddfafadg';
+let str = 'malayalam';
 palind(str)
